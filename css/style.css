@@ -1,0 +1,132 @@
+/* ////////////////// header */
+header {
+  padding: 35px;
+  position: relative;
+  padding-left: 7%;
+}
+header nav ul li {
+  /* display: inline-block; */
+  margin-left: -2px;
+  position: relative;
+  padding: 3px;
+}
+header nav ul {
+  /* position: relative; */
+  display: flex;
+  margin-left: 990px;
+  margin-top: -13px;
+  position: relative;
+  padding: 2px;
+  padding-bottom: 18px;
+}
+header div img {
+  /* margin-top: 20px;
+  margin-left: 20px;
+  position: relative; */
+}
+header h2 {
+  /* position: relative; */
+  margin-left: 48px;
+  margin-top: -50px;
+  /* font-size: 25px; */
+  font-family: "Dancing Script", bold, curve;
+  font-size: xx-large;
+}
+header h4 {
+  /* position: relative; */
+  margin-left: 48px;
+  margin-top: 2px;
+  font-size: x-small;
+  color: gray;
+}
+/* /////////////////////////// */
+.hash-line {
+  background-image: url(../img/amman-irbid-201d24/class-10/lab-a/lab-assets/hr-img.png);
+  /* background-repeat: repeat; */
+  padding: 5px;
+  /* display: block; */
+  padding-right: 829px;
+  position: relative;
+}
+/* /////////////////////// main */
+main {
+  padding: 35px;
+  position: relative;
+  padding-left: 7%;
+}
+main div h1 {
+  font-size: 45px;
+  font-family: "Roboto", sans-serif;
+  padding-bottom: 20px;
+}
+main div h4 {
+  font-size: initial;
+  padding-bottom: 10px;
+  margin-top: -10px;
+  color: #7c7684;
+}
+main div img {
+  height: 100%;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 40px;
+}
+main p {
+  font-size: 22px;
+  padding-bottom: 15px;
+  padding-top: 10px;
+  color: gray;
+}
+.check-box {
+  background-image: url(../img/amman-irbid-201d24/class-10/lab-a/lab-assets/list-bg.png);
+  background-repeat: no-repeat;
+  background-size: 97%;
+  padding: 41px;
+}
+#check1 {
+  position: relative;
+  display: grid;
+  width: 40%;
+  margin-left: 20px;
+}
+#check2 {
+  position: relative;
+  display: grid;
+  width: 40%;
+  margin-left: 483px;
+  margin-top: -113px;
+}
+/* /////////////////////// footer */
+
+footer img {
+  font-size: x-small;
+  left: 4px;
+  top: 295px;
+}
+footer h2 {
+  position: relative;
+  left: 82px;
+  top: -68px;
+  text-align: left;
+  font-size: 25px;
+}
+footer p {
+  position: relative;
+  left: 91px;
+  top: -53px;
+}
+footer button {
+  position: relative;
+  left: 845px;
+  top: -93px;
+  background-color: #d64848;
+  padding: 13px;
+  border-radius: 3px;
+  border: 2px solid #d87989;
+  color: white;
+}
+footer {
+  margin: 10%;
+  margin-left: 153px;
+  padding-left: 7%;
+}
